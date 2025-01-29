@@ -16,7 +16,7 @@ const iv = CryptoJS.enc.Utf8.parse("lowbTJevymuQYwIAgFnsalary");
 
 console.log(`
          ████████               How to uses:
-         ██    ██               1. Get API from MyTV, modify whatever you want
+         ██    ██               1. Get API from OTT source, modify whatever you want
          ██    ██               2. Get nosalary string
          ████████               3. Run the code, put nosalary string
             ██                  4. Profit
