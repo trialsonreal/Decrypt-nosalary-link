@@ -3,7 +3,7 @@ SalaryDecrypt
 </h1>
 
 <h3 align="center">
-Just for decrypting MyTV's nosalary
+Just for decrypting OTT's nosalary
 </h3>
 
 ## How to install
